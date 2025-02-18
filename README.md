@@ -67,7 +67,7 @@ Use main.py to classify new images.
 
 Adjust img_size, batch_size, and epochs for better accuracy.
 
-### 🛠 Future Improvements
+## 🛠 Future Improvements
 
 Implement transfer learning for better accuracy.
 
